@@ -1,4 +1,4 @@
-  # Snake-Game 
+  # Snake-Game [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Hii  I am Koustav. I made a simple game Grab Your Target With Snake Game with Python.
 
 
